@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🔭 I’m currently working on <li><a href="https://store.playstation.com/fr-fr/concept/10003491"> Bad Dreals </a></li> Bad Dreams as a Unity Game Developer for CREATIVE VR 3D (French indie studio)
 
 <!--
 **Rolmak06/Rolmak06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
