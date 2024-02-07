@@ -1,5 +1,7 @@
 ### 🔭 I’m currently working on <a href="https://store.playstation.com/fr-fr/concept/10003491"> Bad Dreams </a> as a Unity Game Developer for <a href ="http://crvr3d.com/">CREATIVE VR 3D </a> (French indie studio)
 
+This Github acts as a Unity Dev Portfolio and a personal archive for my reusable work. Feel free to dig in
+
 <!--
 **Rolmak06/Rolmak06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
